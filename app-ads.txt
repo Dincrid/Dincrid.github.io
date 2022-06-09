@@ -1,3 +1,5 @@
+facebook.com, 882068888975683, DIRECT, c3e20eee3f780d68
+facebook.com, 377964174148736, c3e20eee3f780d68
 unity.com, 1349642, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
